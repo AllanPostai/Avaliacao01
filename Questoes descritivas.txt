@@ -1,0 +1,11 @@
+1 - Um algorítmo é a sequência de instruções ordenadas de forma lógica para a resolução de uma determinada tarefa ou problema.
+
+2 - Variáveis são alocações de memória na qual podemos alocar dados.
+
+3 - método, declaração e retorno.
+
+4 - for é um dos laços de repetição podendo ser usada para calcular juros compostos;
+    switch é um dos laços de repetição podendo ser usada para contar o número de notas A,B,C,D e F equivalentes ao número de notas numéricas inseridas pelo usuário.
+    do while é um dos laços de repetição e remete a uma condição de continuação de loop.
+
+while e for podem ser utilizados para qualquer tipo de repetição.
